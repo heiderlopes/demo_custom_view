@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoCustomView</string>
+    <string name="button_label_calculate">Calcular</string>
+    <string name="button_label_loading">Calculando ... </string>
+</resources>
